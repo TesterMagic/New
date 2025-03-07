@@ -1,1 +1,1 @@
-cd New
+sh app.json
